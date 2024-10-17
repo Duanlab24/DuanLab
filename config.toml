@@ -1,4 +1,4 @@
-baseURL       = "https://dunalab24.github.io/"
+baseURL       = "https://duanlab24.github.io/DuanLab/"
 languageCode  = "en-us"
 title         = "DuanLab"
 theme         = "roxo-hugo"
