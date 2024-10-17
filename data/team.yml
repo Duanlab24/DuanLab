@@ -1,9 +1,9 @@
 enable  : true
 title   : Team that makes the difference.
 members  :
-  - image       : images/team/team-member-one.jpg
-    name        : PABLO ESCOBAR
-    designation : Creative Director
+  - image       : images/team/teacher.jpg
+    name        : Duan, Lihui
+    designation : Lab Director
     medium      : https://www.medium.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/

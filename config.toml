@@ -1,4 +1,4 @@
-baseURL       = "http://dunalab24.github.io/"
+baseURL       = "https://dunalab24.github.io/duanlab/"
 languageCode  = "en-us"
 title         = "DuanLab"
 theme         = "roxo-hugo"
@@ -39,7 +39,7 @@ publishDir    = "docs"
 
 # Site Params
 [params]
-  logo = "images/logo.png"
+  logo = "images/favicon.png"
   logo_footer = "images/logo-footer.png"
   favicon_icon = "images/favicon.ico"
   favicon_shortcut_icon = "images/favicon.png"
@@ -63,11 +63,11 @@ publishDir    = "docs"
     send_message                  = "Send Message"
 
     [[params.contactForm.projectType]]
-      value = "gd"
-      title  = "Graphics Design"
+      value = "ra"
+      title  = "Research Assistant"
     [[params.contactForm.projectType]]
-      value = "wd"
-      title  = "Web Design"
+      value = "phd"
+      title  = "PhD Student"
   
   # Navbar Action Button
   [params.navAction]
@@ -113,13 +113,13 @@ publishDir    = "docs"
     [params.footer.contactInfo]
       title   = "Contact Info"
       address = "713 Elmwood St.<br>Prior Lake, MN 55372"
-      phone   = "409-896-1444"
-      email   = "info@roxo.co"
+      phone   = "86-10-64806596"
+      email   = "lihui.duan@genetics.ac.cn"
       # Footer Sitemap
       [params.footer.sitemap]
         title   = "Sitemap"
         [[params.footer.sitemap.link]]
-          name = "About Company"
+          name = "About Lab"
           url  = "about"
         [[params.footer.sitemap.link]]
           name = "Projects"
