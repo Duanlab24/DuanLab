@@ -79,7 +79,7 @@ publishDir    = "docs"
   # Banner Section
   [params.banner]
     enable                = true
-    background_image      = "images/backgrounds/hero-background.jpg"
+    background_image      = "images/backgrounds/home-background.png"
     heading               = "Welcome to Duan Lab"
     tagline               = "WE WORK HARD, WE PLAY HARD"
     primary_button        = "See Our Works"
