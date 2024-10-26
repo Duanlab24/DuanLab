@@ -112,7 +112,7 @@ publishDir    = "docs"
     # Footer Contact Info
     [params.footer.contactInfo]
       title   = "Contact Info"
-      address = "713 Elmwood St.<br>Prior Lake, MN 55372"
+      address = "No. 1 West Beichen Road, Chaoyang District, Beijing 100101, P.R. China"
       phone   = "86-10-64806596"
       email   = "lihui.duan@genetics.ac.cn"
       # Footer Sitemap
