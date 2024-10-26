@@ -3,42 +3,56 @@ title   : Team that makes the difference.
 members  :
   - image       : images/team/teacher.jpg
     name        : Duan, Lihui
-    designation : Lab Director
+    designation : PI
     medium      : https://www.medium.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
   - image       : images/team/team-member-two.jpg
-    name        : MONTINO RIAU
+    name        : Chao Zhou
     designation : Product Manager
     medium      : https://www.medium.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-three.jpg
-    name        : ALEX NAASRI
-    designation : Chief Design Officer
+  - image       : images/team/fhx.jpg
+    name        : Haixin Feng
+    designation : PhD Student
     medium      : https://www.medium.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-four.jpg
-    name        : HONGMAN CHIOA
-    designation : UX Researcher
+  - image       : images/team/lian.jpg
+    name        : Xinyu Lian
+    designation : Postgraduate Student
     medium      : https://www.medium.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
   - image       : images/team/team-member-five.jpg
-    name        : SANTIO ANDRESS
-    designation : Content Researcher
+    name        : Zhengyue Sha
+    designation : PhD Student
     medium      : https://www.medium.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
   - image       : images/team/team-member-six.jpg
-    name        : RAMESH PAUL
-    designation : Creative Designer
+    name        : Ya Li
+    designation : PhD Student
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image     : images/team/team-member-six.jpg
+    name        : Xinyang Li
+    designation : Postgruaduate Student
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image     : images/team/team-member-six.jpg
+    name        : Yuan Huang
+    designation : PhD Student
     medium      : https://www.medium.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
